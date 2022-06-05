@@ -6,3 +6,5 @@ po_bank.tar.gz filter=lfs diff=lfs merge=lfs -text
 yolo.tar.gz filter=lfs diff=lfs merge=lfs -text
 inv_avme.tar.gz filter=lfs diff=lfs merge=lfs -text
 inv_certi.tar.gz filter=lfs diff=lfs merge=lfs -text
+.tar.gz filter=lfs diff=lfs merge=lfs -text
+inv_staver.tar.gz filter=lfs diff=lfs merge=lfs -text

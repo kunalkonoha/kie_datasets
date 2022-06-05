@@ -1,1 +1,8 @@
 “inv_ocr.tar.gz” filter=lfs diff=lfs merge=lfs -text
+inv_gen.tar.gz filter=lfs diff=lfs merge=lfs -text
+inv_ocr.tar.gz filter=lfs diff=lfs merge=lfs -text
+inv_rdip.tar.gz filter=lfs diff=lfs merge=lfs -text
+po_bank.tar.gz filter=lfs diff=lfs merge=lfs -text
+yolo.tar.gz filter=lfs diff=lfs merge=lfs -text
+inv_avme.tar.gz filter=lfs diff=lfs merge=lfs -text
+inv_certi.tar.gz filter=lfs diff=lfs merge=lfs -text
